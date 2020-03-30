@@ -1,0 +1,5 @@
+DOCUMENTATION
+
+elevate.bat runs fasternetWithPython.EXE with admin rights
+
+Package elevate.bat as the main executable with the actual fasternetWithPython.EXE also bundled, using Inno

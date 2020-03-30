@@ -1,0 +1,10 @@
+DOCUMENTATION
+
+Use iexpress (run as admin)
+
+Title for this one is FasternetWithPython
+Bundle both fasternet.exe and PythonInstaller.exe into the thing
+Run PythonInstaller first, and then run fasternet after the installation
+Make sure the very last checkbox (something about long filenames) is checked
+Check "hidden" for the window
+No restart
